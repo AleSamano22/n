@@ -9405,7 +9405,7 @@ a.text-light:focus,a.text-light:hover {
 @media (max-width: 378px) {
     .logo-ecobici{
         width: 200px;
-        height: 40px;
+        height: 43px;
     }
 }
 
@@ -9431,6 +9431,6 @@ a.text-light:focus,a.text-light:hover {
 @media (max-width: 378px) {
     .registro{
         width: 300px;
-        height: 240;
+        height: 230;
     }
 }
